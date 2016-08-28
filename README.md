@@ -1,0 +1,2 @@
+# cmkrc
+deniyoruz abi
